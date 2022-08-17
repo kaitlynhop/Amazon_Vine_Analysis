@@ -23,12 +23,9 @@ The purpose of this project was to compare paid reviews and non-paid reviews usi
 <br>![Image link](/Images/unpaid_reviews.png)
 <br>Image 2. Shows the dataframe created from the filtered data of unpaid reviews.
 <br>
-<br>How many Vine reviews and non-Vine reviews were there?
  - As seen in Image 1, there were 0 Vine reviews. 
- - Non-vine reviews totaled 4,533.<br>
-How many reviews were 5 stars?
- - Of the non-vine reviews, 2,507 of wich were 5-star ratings.<br>
-What percentage of reviews were 5 stars?
+ - Non-vine reviews totaled 4,533.
+ - Of the non-vine reviews, 2,507 of wich were 5-star ratings.
  - This yielded a 55.3% of total non-vine reviews being 5-star rating. 
 
 ## Summary
